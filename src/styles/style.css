@@ -86,3 +86,22 @@ video {
     font: inherit;
     vertical-align: baseline;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+.tittle1 {
+    font-size: 42px;
+    color: #3745BD;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+}
+
+header {
+    width: 429px;
+}
+
+.paragrafo1 {
+    font-size: 20px;
+    line-height: 28px;
+    font-family: "Inter", sans-serif;
+}
